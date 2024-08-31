@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Obyno-cloud.
 - 👀 I’m interested in Software Engineering.
 - 🌱 I’m currently learning programming
-- 💞️ I’m looking to collaborate with anyone to help achieve my dreams.
+- 💞️ I’m looking to collaborate with anyone to help me achieve the dreams.
 - 📫 How to reach me via obinna.onoyima.oo@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
